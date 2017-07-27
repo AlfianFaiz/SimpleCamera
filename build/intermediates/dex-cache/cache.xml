@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\MaF\SimpleCamera\app\build\intermediates\exploded-aar\com.afollestad\material-camera\0.4.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="175f726550290c1b2d325df9d5aa79ef96ed0498">
+        <dex dex="D:\MaF\SimpleCamera\app\build\intermediates\pre-dexed\debug\com.afollestad-material-camera-0.4.4_85ae6fc46ca54a888a6b37962ca858d3ca11d2f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MaF\SimpleCamera\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="D:\MaF\SimpleCamera\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_287e329a5dc027dc313cc3322706898435bdbfc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MaF\SimpleCamera\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="D:\MaF\SimpleCamera\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.0_e0d1ca4f98608e3468432f8fd1c6acaaf33bd432.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MaF\SimpleCamera\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="20bdb9f53b01287aeb36a289ae30fdefa57b3b8b">
+        <dex dex="D:\MaF\SimpleCamera\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_5a6a3d48abe0619a299e995e657071cf07cbc246.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MaF\SimpleCamera\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="D:\MaF\SimpleCamera\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_c328ea276e470cbdd648d48edd64ca98b74dc467.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MaF\SimpleCamera\app\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67355078cd30daae43f62ba47a4663ee6edb976e">
+        <dex dex="D:\MaF\SimpleCamera\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.0_5054f7ccb691f0745829e156382eecd9e33d4456.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="D:\MaF\SimpleCamera\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_c81d3d9b0cbb91f35fac5707ada360afdc9f09e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MaF\SimpleCamera\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="D:\MaF\SimpleCamera\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_150d68d30298c7e2c3de7e513d34450a4c9493c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MaF\SimpleCamera\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="D:\MaF\SimpleCamera\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_fdc663c138007f3a8692783de35621a8023b2832.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MaF\SimpleCamera\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\MaF\SimpleCamera\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_82db463587f2c9c5bca6af8ab2e671425cf0f37d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MaF\SimpleCamera\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="D:\MaF\SimpleCamera\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_59a81df04a2e4eec15ff300ef7b55fd7318cc2e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MaF\SimpleCamera\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="D:\MaF\SimpleCamera\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_ce673b5ea0df379e0d3fda765e322ceb92f577c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MaF\SimpleCamera\app\build\intermediates\exploded-aar\com.afollestad\easyvideoplayer\0.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7c9ef64fc4b3c21a9b584017a93d7fe739ae711a">
+        <dex dex="D:\MaF\SimpleCamera\app\build\intermediates\pre-dexed\debug\com.afollestad-easyvideoplayer-0.3.0_0f5b517dfc2631d9560457e7e8dce81865f88e10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MaF\SimpleCamera\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7417a7ffa10612f1e20a5f1bbee31d923748c0b8">
+        <dex dex="D:\MaF\SimpleCamera\app\build\intermediates\pre-dexed\debug\instant-run_0aeb86ce3ad44686416a6fe4c7a6af87378990c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MaF\SimpleCamera\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="D:\MaF\SimpleCamera\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_2af817701b2e8e0e456626382e738b5b52a278ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MaF\SimpleCamera\app\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ac094121e75b4b87432beb9305d70c68ec6dcab">
+        <dex dex="D:\MaF\SimpleCamera\app\build\intermediates\pre-dexed\debug\com.android.support-support-v13-25.0.0_008d81c4c056c74b3f1cc0db3ce809efde6a8175.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MaF\SimpleCamera\app\build\intermediates\exploded-aar\com.afollestad.material-dialogs\core\0.9.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="16795a75616fe3ba9df9ae4af09202145e3a26dc">
+        <dex dex="D:\MaF\SimpleCamera\app\build\intermediates\pre-dexed\debug\com.afollestad.material-dialogs-core-0.9.1.0_8052b61a486e77bac46ef1c7470303daeebc2f8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MaF\SimpleCamera\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="D:\MaF\SimpleCamera\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_5def2e328c6b5993276e24460c852100700f3c0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\MaF\SimpleCamera\app\build\intermediates\exploded-aar\me.zhanghai.android.materialprogressbar\library\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a846ddbf5bf88dee5f89d4dffe22c864f576d9b0">
+        <dex dex="D:\MaF\SimpleCamera\app\build\intermediates\pre-dexed\debug\me.zhanghai.android.materialprogressbar-library-1.3.0_546fe72ec035ee24155405ce91d6660fb59742ef.jar" />
+    </item>
+
+</items>
